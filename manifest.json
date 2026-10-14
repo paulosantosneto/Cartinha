@@ -1,0 +1,9 @@
+{
+  "id": "cartinha",
+  "name": "Cartinha",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "Flashcards direto nos bullets: 'Pergunta == Resposta' ou 'Pergunta ==' com uma lista de itens que são revelados e marcados um por um na revisão.",
+  "author": "Paulo",
+  "isDesktopOnly": false
+}
